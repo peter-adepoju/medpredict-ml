@@ -32,8 +32,8 @@ medpredict-ml/
 │
 ├── src/
 │   ├── algorithms.py          # All from-scratch implementations
-│   │     ├── LinearRegressionScratch     (GD, regularised, normal eq.)
-│   │     ├── LogisticRegressionScratch   (sigmoid, log-loss, regularised)
+│   │     ├── LinearRegression            (GD, regularised, normal eq.)
+│   │     ├── LogisticRegression          (sigmoid, log-loss, regularised)
 │   │     ├── FeatureScaler               (3 methods)
 │   │     ├── PolynomialFeatureEngineer   (polynomial + interactions)
 │   │     ├── VectorizationBenchmark      (speed comparison)
@@ -45,13 +45,13 @@ medpredict-ml/
 │   └── visualization.py       # All plots (cost history, boundaries, etc.)
 │
 ├── data/
-│   ├── insurance.csv          # 1,338 rows (download from Kaggle)
-│   ├── diabetes.csv           # 768 rows   (download from Kaggle)
+│   ├── insurance.csv          # download from Kaggle
+│   ├── diabetes.csv           # download from Kaggle
 │   └── download_data.py       # Auto-download or generate synthetic data
 │
-├── results/                   # Auto-generated plots
+├── results/                   
 │
-├── main_analysis.py           # 📌 MAIN FILE — runs all 22 parts
+├── main_analysis.py           # 📌 MAIN FILE 
 ├── requirements.txt
 └── README.md
 ```
