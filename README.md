@@ -8,7 +8,7 @@
 [![NumPy](https://img.shields.io/badge/NumPy-1.24+-orange?logo=numpy)](https://numpy.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?logo=scikit-learn)](https://scikit-learn.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-brightgreen)]()
+[![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)]()
 
 ---
 
