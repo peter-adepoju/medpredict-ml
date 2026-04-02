@@ -14,14 +14,14 @@
 
 ## Overview
 
-**MedPredict-ML** is a rigorous, from-scratch implementation of every supervised machine learning algorithm covered in [Andrew Ng's Supervised Machine Learning course](https://www.coursera.org/learn/machine-learning), applied to **two real-world healthcare datasets**:
+**MedPredict-ML** is an implementation of every supervised machine learning algorithm covered in [Andrew Ng's Supervised Machine Learning course](https://www.coursera.org/learn/machine-learning), applied to **two real-world healthcare datasets**:
 
 | Task | Dataset | Target |
 |------|---------|--------|
 | **Regression** | Medical Insurance Cost ([Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)) | Predict annual insurance charges (USD) |
 | **Classification** | Pima Indians Diabetes ([UCI/Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)) | Predict diabetes risk (binary) |
 
-Every algorithm, mathematical formula, and concept is implemented **from scratch using only NumPy**, then validated against scikit-learn. No black-boxes — every line of code corresponds directly to the mathematical equations in the course.
+Every algorithm, mathematical formula, and concept is implemented from scratch using only NumPy, then validated against scikit-learn. No black-boxes — every line of code corresponds directly to the mathematical equations in the course.
 
 ---
 
